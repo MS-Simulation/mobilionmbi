@@ -5,7 +5,7 @@ edition = "2021"
 rust-version = "1.84"
 license = "MIT OR Apache-2.0"
 description = "Python (PyO3) bindings for mobilionmbi — MOBILion .mbi reading without the vendor SDK"
-repository = "https://github.com/theGreatHerrLebert/mobilionmbi"
+repository = "https://github.com/MS-Simulation/mobilionmbi"
 
 [lib]
 name = "mobilionmbi_connector"
